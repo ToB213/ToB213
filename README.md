@@ -8,9 +8,6 @@
 
 ## GitHub Stats
 
-![ToB's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ToB213&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToB213&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9)
-
 </div>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ToB213&theme=high-contrast&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
